@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlBuSoft)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m @AlBuSoft
 - 👀 I’m interested in C++
 - 🌱 I’m currently learning MORE C++
